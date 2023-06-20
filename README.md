@@ -1,7 +1,7 @@
 
 <strong><h1 align="center"> Crypto Pro</h1></strong>
 
-<h2 align="center">🔥 Desenvolver uma página website de uma corretoras de criptomoedas, com interface completa de trading, benefícios e responsiva!  🔥</h2>
+<h2 align="center">🔥 Desenvolver uma página website de uma corretoras de criptomoedas, com interface completa de trading, benefícios e responsiva, inpirado em @codewithsadee!  🔥</h2>
 
 
 ## Preview
